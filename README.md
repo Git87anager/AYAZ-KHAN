@@ -1,106 +1,81 @@
-<div align="center">
+# Ayaz Khan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Ayaz%20Khan&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer%20System%20Student&descAlignY=55&descSize=20" width="100%"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ayaz%20Khan&fontAlign=50&fontAlignY=40&desc=Computer%20System%20Student&animation=twinkling&color=0:7dd3fc,100:38bdf8"/>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Computer+System+Student;Vibe+Coder+%7C+C%2B%2B+%2F+Python+%2F+MATLAB;Building+the+Smart+Sewage+Management+System;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?lines=Computer+System+Student;Python+%7C+C%2B%2B+%7C+MATLAB;Building+Cybersecurity+Projects;Smart+Sewage+Management+System&center=true&width=700"/>
+</p>
 
-<br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20to%20Work-Yes-7dd3fc"/>
+<img src="https://komarev.com/ghpvc/?username=Git87anager&color=7dd3fc"/>
+<img src="https://img.shields.io/github/followers/Git87anager?label=Followers"/>
+</p>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=1a1a2e)
+## Who I Am
 
-<img src="https://komarev.com/ghpvc/?username=Git87anager&color=7dd3fc&style=flat-square&label=Profile+Views" />
-<img src="https://img.shields.io/github/followers/Git87anager?color=7dd3fc&style=flat-square&label=Followers&logo=github" />
-
-</div>
-
----
-
-### 👤 Who I Am
-
-```typescript
-const ayazKhan = {
+```ts
+const ayaz = {
   title: "Computer System Student",
-  stack: ["C++", "Python", "MATLAB"],
-  style: "Vibe Coder — moves fast, solves real problems, not chasing edge cases",
+  stack: ["C++","Python","MATLAB"],
   launchedProjects: [
-    "Smart Sewage Management System"
+    "Smart Sewage Management System",
+    "Keylogger for Kali Linux"
   ],
   certifications: [],
-  status: "Learning, building, and looking for the next opportunity",
-  openTo: "Full-time roles & collaborative projects"
-};
+  status: "Learning and building practical projects",
+  openTo: "Internships and full-time opportunities"
+}
 ```
 
----
+## Featured Projects
 
-### 🚀 Featured Projects
-
-#### Smart Sewage Management System
-
-Intelligent sewage management system that predicts whether a manhole cover is covered or missing, using literacy rate, poverty index, and police alertness as indicators.
-
-<div align="left">
-  <a href="https://github.com/Git87anager/smart-sewage-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Git87anager&repo=smart-sewage-management-system&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-</div>
+### Smart Sewage Management System
+![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Git87anager&repo=smart-sewage-management-system&theme=nord)
 
 | Layer | Technology |
 |---|---|
-| Core Logic | Python |
-| Data / Modeling | MATLAB |
-| Prediction Features | Literacy Rate, Poverty Index, Police Alertness |
+| Language | Python |
+| AI | Predictive model |
+| Purpose | Intelligent sewage management |
 
-🔗 [Code](https://github.com/Git87anager/smart-sewage-management-system)
+- Code: https://github.com/Git87anager
 
----
+### Keylogger Running in Kali Linux
+![Pin](https://github-readme-stats.vercel.app/api/pin/?username=Git87anager&repo=keylogger&theme=nord)
 
-### 🛠️ Tech Stack
+| Layer | Technology |
+|---|---|
+| Language | Python |
+| Platform | Kali Linux |
+| UI | Async GUI |
+
+- Code: https://github.com/Git87anager
+
+## Tech Stack
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=cpp,python,matlab&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=cpp,python,matlab)
 
----
+## GitHub Stats
 
-### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Git87anager&show_icons=true&theme=nord)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Git87anager&layout=compact&theme=nord)
 
-<div align="center">
+![](https://streak-stats.demolab.com?user=Git87anager&theme=nord)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Git87anager&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&icon_color=7dd3fc" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git87anager&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+![](https://github-profile-trophy.vercel.app/?username=Git87anager&theme=nord&no-frame=true&no-bg=true)
 
-<img src="https://streak-stats.demolab.com?user=Git87anager&theme=nord&border=7dd3fc&background=0D1117&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="80%" />
+![](https://github-readme-activity-graph.vercel.app/graph?username=Git87anager&theme=nord)
 
-</div>
+## Connect
 
-#### 🏆 Trophies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/ayaz-khan-486898404/)
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?logo=behance)](https://www.behance.net/lurkingbarbari)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Git87anager&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</div>
-
-#### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git87anager&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="90%" />
-</div>
-
----
-
-### 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ayaz-khan-486898404/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.behance.net/lurkingbarbari" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:7dd3fc,100:38bdf8"/>
+</p>
