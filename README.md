@@ -90,7 +90,8 @@ I'm **Ayaz Khan**, a **Computer System Engineering Student** passionate about bu
 <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/curtisma/MATLAB/refs/heads/master/MATLAB%20Logo.ico" width=50 height=50/>
+
 
 </p>
 
@@ -102,7 +103,7 @@ I'm **Ayaz Khan**, a **Computer System Engineering Student** passionate about bu
 
 <img src="https://skillicons.dev/icons?i=linux,windows"/>
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="data:image/jpeg;base64,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"/>
 
 </p>
 
@@ -113,20 +114,13 @@ I'm **Ayaz Khan**, a **Computer System Engineering Student** passionate about bu
 <p>
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm"/>
+</a>
+<img src="https://www.searchyour.ai/archivos/antigravity-google-ai-logo.jpg" width=50 height=50/>
 
 </p>
 
 ---
 
-## ⚙️ Version Control
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github"/>
-
-</p>
-
----
 
 ## 🤖 Engineering & Scientific Computing
 
@@ -139,22 +133,6 @@ I'm **Ayaz Khan**, a **Computer System Engineering Student** passionate about bu
 <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
 
 </p>
-
----
-
-## 🛡 Cybersecurity
-
-<p>
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GUI_Applications-2C3E50?style=for-the-badge"/>
-
-</p>
-
-</div>
 
 ---
 
